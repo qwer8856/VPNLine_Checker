@@ -2,6 +2,8 @@
 
 一个轻量、响应式的 VPN 线路检测页面。它会从访问者当前网络实时测试线路连通性与响应时间，自动排序结果，并推荐最快的可用入口。
 
+**在线访问：** [https://qwer8856.github.io/VPNLine_Checker/](https://qwer8856.github.io/VPNLine_Checker/)
+
 ## 页面预览
 
 ### 桌面端 · 深色
@@ -68,3 +70,5 @@ npx vite
 ```bash
 npx vite build
 ```
+
+需要修改检测域名或构建静态网站时，请参阅 [DEPLOYMENT.md](DEPLOYMENT.md)。
